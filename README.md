@@ -6,4 +6,4 @@ It can be used with NodeJS by informing the number of random samples wanted, the
 ```javascript
 node random-sequences.js 10 input.fas output.fas
 ```
-It can also be compiled to any operational system throught the ```javascript pkg``` npm package.
+It can also be compiled to any operational system throught the ```pkg``` npm package.
